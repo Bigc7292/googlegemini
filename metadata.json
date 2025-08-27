@@ -1,0 +1,7 @@
+{
+  "name": "Seek Beyond Realty - AI Video Generator",
+  "description": "An application for the Seek Beyond Realty marketing team to generate high-quality marketing videos for Dubai real estate using text or voice prompts, powered by Google's Veo model.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
